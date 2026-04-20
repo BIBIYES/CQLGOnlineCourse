@@ -1,6 +1,6 @@
 #!/bin/bash
 
-header_cookie="Cookie: "
+header_cookie="Cookie: .CHINAEDUCLOUD=05310105856b434ba4b0a6154c0c7993; _pk_id.750.de6a=d630dacf54affdcc.1743999362.;"
 sleep_time=30
 
 
